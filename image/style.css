@@ -1,0 +1,91 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  color: #666;
+  background-color: RGBA(244, 247, 247, 0.8);
+  line-height: 1.6em;
+  font-weight:300;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+}
+
+h1 {
+  color: #34495E;
+  line-height: 0.2em;
+}
+
+h2 {
+  color: #5DA0A2;
+  line-height: 0.3em;
+  font-weight: 300;
+}
+
+h3 {
+  color: #AACFD0;
+  line-height: 0.1em;
+}
+
+a {
+  color: #6772e5;
+  text-decoration: none;
+  cursor: pointer;
+
+}
+
+a:hover {
+  color: #333;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+}
+
+table img {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin-right: 20px;
+}
+
+
+ul li {
+  display: inline;
+  padding: 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+#avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+}
+
+
+.container .card {
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 500px;
+  background-color: #FFFFFF;
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px rgba(247, 247, 247, 0.9);
+  text-align: center;
+}
+
+/* Here goes your CSS */
